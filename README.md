@@ -5,4 +5,4 @@ IS is the identity source(身份源),from left to right are two MEAD participant
 
 ES is the emotion source(情感源), from top to bottom are identity source itself,a MEAD participants and a untrained portraits.
 
-Audio by Sheldon of The Big Bang Theory
+Audio by Sheldon of The Big Bang Theory.
